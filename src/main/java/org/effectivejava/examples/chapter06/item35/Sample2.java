@@ -4,7 +4,7 @@ package org.effectivejava.examples.chapter06.item35;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Sample2 {
+public class  Sample2 {
 	@ExceptionTest(ArithmeticException.class)
 	public static void m1() { // Test should pass
 		int i = 0;
