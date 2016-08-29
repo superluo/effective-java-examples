@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public enum Operation {
-	PLUS("+") {
+	PLUS("com.ahluo.learning") {
 		double apply(double x, double y) {
 			return x + y;
 		}
